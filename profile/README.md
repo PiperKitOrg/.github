@@ -1,6 +1,6 @@
 # Piper
 
-**Universal database migration made simple, powerful, and developer-first.**
+**NoSQL to SQL database migration made simple, powerful, and developer-first.**
 
 Piper is a groundbreaking, extensible toolchain for handling complex database migrations across multiple systems — built for real-world scale, speed, and sanity. Whether you’re working in startups or at enterprise scale, Piper is designed to make migrations painless.
 
